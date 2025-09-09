@@ -3,7 +3,7 @@ import './globals.css';
 import Script from 'next/script';
 
 export const metadata: Metadata = {
-  title: 'Vakinha',
+  title: 'Vakinha | Vaquinhas Online',
   description: '',
 };
 
